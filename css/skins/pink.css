@@ -1,0 +1,23 @@
+/*  pink color style    */
+.event-item .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .social-icons a i,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color: #fb839e;
+}
+
+.event-item .event-item-inner:before,
+.couple-section .social-icons a i,
+.couple-section .couple img{
+    border-color: #fb839e;
+}
+
+
+.event-section,
+.couple-section .social-icons a:hover i{
+    background-color: #fb839e;
+}
