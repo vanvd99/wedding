@@ -626,8 +626,12 @@ header, section, footer {
 }
 
 
+.countdown-section p {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: #ee4d2d;
 
-
+}
 
 
 
